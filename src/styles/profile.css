@@ -1,0 +1,12 @@
+input[type=file]::file-selector-button {
+  background: #DAECC7;
+  color: #8DC63F;
+}
+
+input[type=file]::file-selector-button {
+  background: #DAECC7 !important;
+}
+
+#pandcard::placeholder {
+  color: #8DC63F;
+}

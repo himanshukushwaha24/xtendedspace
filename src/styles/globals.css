@@ -1,0 +1,49 @@
+
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* @import './base.css'; */
+@import 'tailwindcss/utilities';
+@import './main.css';
+@import './login.css';
+@import './profile.css';
+@import './calculator.css';
+@import './storagelisting.css';
+@import './otheritems.css';
+
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@import "./home.css";
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.profile-tab li{
+    cursor: pointer;
+}
+@import "./easystorage.css";
+@import "./liststorage.css";
+@import "./marketing.css";
+@import "./contact.css";
+@import "./faq.css";
+@import "./enroll.css";
+@import "./relocation.css";
+
+
+div,p,h1,h2,h3,h4,h5,h6,li,ul,a,span,button{
+    font-family: "Inter", sans-serif !important;
+}
+
+
+
+
+
+.ant-picker .ant-picker-input >input {
+    
+    font-size: 16px !important;
+   
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

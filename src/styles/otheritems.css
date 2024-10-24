@@ -1,0 +1,35 @@
+.other-items{
+    background-image: url(/images/blog/blog-cat-1.png);
+    width: 17vw;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+
+  .other-items1{
+    background-image: url(/images/blog/Packing.png);
+    width: 17vw;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+  .other-items2{
+    background-image: url(/images/blog/logistics.png);
+    width: 17vw;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+  @media (max-width: 320px) {
+    .custom_mobile {
+      font-size: 12px;
+      line-height: 16px;
+      padding: 10px;
+    }
+}
